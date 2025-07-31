@@ -1,0 +1,11 @@
+site_name: 'otel-test'
+site_description: 'Main documentation for otel-test'
+repo_url: https://github.com/jaysuzi5/otel-test
+edit_uri: edit/main/docs
+
+plugins:
+  - techdocs-core
+
+nav:
+  - Overview:
+      - Getting started: 'docs/index.md'
